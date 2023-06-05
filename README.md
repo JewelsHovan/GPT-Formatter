@@ -1,9 +1,12 @@
-Sure, here's a simple README template for your project:
 
 ```markdown
 # GPT-Formatter
 
 GPT-Formatter is a Python tool that uses OpenAI's GPT-3.5-turbo for text formatting. It tokenizes and formats text files, supports batch processing, and provides a progress bar for tracking. This tool is ideal for improving the readability of large text files like book chapters.
+
+# Notion Link
+For more information and reasoning on this project
+https://pinnate-chokeberry-0a0.notion.site/GPT-Formatter-2772bf57a5494c9d8e4f18e8c4592ecd
 
 ## Features
 
